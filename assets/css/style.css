@@ -403,6 +403,24 @@ main {
   gap: 16px;
 }
 
+/* .simple-icons--codechef {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-color: ;
+  -webkit-mask-image: var(--svg);
+  mask-image: var(--svg);
+  -webkit-mask-repeat: no-repeat;
+  mask-repeat: no-repeat;
+  -webkit-mask-size: 100% 100%;
+  mask-size: 100% 100%;
+} */
+
+/* .codechef{
+  color: white;
+  background-color: white;
+} */
+
 .contact-item {
   min-width: 100%;
   display: flex;
